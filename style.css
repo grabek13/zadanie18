@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color: red;
+}
+p {
+    font-size: 1.5em;
+}
+p::first-line {
+    margin-top: 3em;
+}
+p.pierwszy_par {
+    color: burlywood;
+}
+p.drugi_par {
+    color: blue;
+}
